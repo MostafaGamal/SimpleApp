@@ -41,6 +41,4 @@ curl -d '{"username":"mostafa", "password":"testtest"}' -H "Content-Type: applic
 
 ## Credits:
 
-```
 I've used [casbinrest adapter](https://github.com/prongbang/casbinrest) (with some updates to work with echo v4) for integrating echo with casbin
-```
